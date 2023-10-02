@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - startGame
+  - resumeGame
+  - pauseScreen
+  - gameOverScreen
+  - gameOverScript
+  - throwableObjectPosition
+  - throwableObject
+  - npc1Arrow
+  - npcConvoInfo
+  - destructibleObject
+  - door
+  - blueButton
+  - greenButton
+  - purpleButton
+  - starsCanvas
+  - audioSourcesManager
+  - followCamera
+  - levelTransitions
+  - levelLoading
+  - hiddenStar
+  - key
+  - stunEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - GrabbableObject
+  - Background
+  - Player
+  - GameOver
+  - Enemy
+  - EnemyZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

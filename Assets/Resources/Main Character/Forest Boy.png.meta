@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: ee299044b66557840b84c95515e34d38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forest Boy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.55032474, y: 0.36871934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff26072ddb7b64bb2acfbd8dd9ff46
+      internalID: -428161297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 155
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5754865, y: 0.3769246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b99157ab009c648bf2a5e7b0e83d59
+      internalID: 1367431333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 155
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5629056, y: 0.36051476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c233c2489cc141ad531f4bffbc310
+      internalID: -198265745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 155
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.57548624, y: 0.36051476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2c997b9ab99e4e88ea52c3ccc3b67
+      internalID: -107048760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 157
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5503245, y: 0.31948918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9556aa16b253f74ea65f462a9ea5bf1
+      internalID: -514069083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 124
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.3605141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830dbc8ed90ba341bf685079d3bf6ca
+      internalID: -294047009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 124
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.39333442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e5ca79ed8185d4891a5b213af62523
+      internalID: 1575318132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 124
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5754868, y: 0.3605141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78f7c96a40218449963ee1d5157909
+      internalID: 1195091662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 123
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.58806765, y: 0.39333442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896ddd47ac34bc47ae7d24636f5f748
+      internalID: 1096799567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4179495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c99e8029acba4daf9d76979e810a7
+      internalID: -1014228226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5629059, y: 0.39333442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67fdd61bfcd4f449c81fa43a8d9444
+      internalID: -935533486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f057cfaec868248b5894203dc761ae
+      internalID: -842151841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc41840daa0d647a99c3897e461b5d
+      internalID: 835540107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 70
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717280c7da1fb04a80335ef5d0a7027
+      internalID: 879960236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.48741862, y: 0.40153968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1892d7d4cb72cc14fbb21d7a316beef2
+      internalID: -182584887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5629056, y: 0.44256493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042270e5d7acd37448baa649d0cd68c4
+      internalID: -1318913292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Boy_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2db136aec6c30408b2afa5e544abfd
+      internalID: -883461648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Forest Boy_0: -428161297
+      Forest Boy_1: 1367431333
+      Forest Boy_10: -935533486
+      Forest Boy_11: -842151841
+      Forest Boy_12: 835540107
+      Forest Boy_13: 879960236
+      Forest Boy_14: -182584887
+      Forest Boy_15: -1318913292
+      Forest Boy_16: -883461648
+      Forest Boy_2: -198265745
+      Forest Boy_3: -107048760
+      Forest Boy_4: -514069083
+      Forest Boy_5: -294047009
+      Forest Boy_6: 1575318132
+      Forest Boy_7: 1195091662
+      Forest Boy_8: 1096799567
+      Forest Boy_9: -1014228226
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
